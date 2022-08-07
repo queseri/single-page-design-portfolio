@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass\\style.scss"],"names":[],"mappings":"AAAA;EACI;EACA","file":"style.500aa19d.css","sourceRoot":"..","sourcesContent":["body {\r\n    background-color: red;\r\n    color: green;\r\n}"]}
