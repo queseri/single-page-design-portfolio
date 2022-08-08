@@ -1,0 +1,14 @@
+@use '../base';
+
+.btn {
+    background-color: base.$clr-black;
+    border-radius: 28px;
+    color: base.$clr-light-cream;
+    text-decoration: none;
+    font-size: base.$fs-14;
+    font-weight: 700;
+    padding-block: .8rem;
+    padding-inline: 1rem;
+    text-align: center;
+    min-width: 11rem;
+}

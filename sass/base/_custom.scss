@@ -1,0 +1,33 @@
+@use '../utils';
+
+$clr-galactic-blue: hsla(252, 66%, 62%, 1);
+$clr-summer-yellow: hsla(28, 89%, 67%, 1);
+$clr-dark-pink: hsla(0, 79%, 79%, 1);
+$clr-light-red: hsla(7, 77%, 66%, 1);
+$clr-cyan: hsla(172, 46%, 57%, 1);
+$clr-magenta: hsla(314, 46%, 23%, 1);
+$clr-black: hsla(0, 0%, 1%, 1);
+$clr-medium-brown: hsla(30, 5%, 45%, 1);
+$clr-light-cream: hsla(30, 100%, 97%, 1);
+$clr-white: hsla(0, 0%, 100%, 1);
+
+$font-family: 'Plus Jakarta Sans', sans-serif;
+
+$fs-12: utils.calculateRem(12);
+$fs-13: utils.calculateRem(13);
+$fs-14: utils.calculateRem(14);
+$fs-15: utils.calculateRem(15);
+$fs-16: utils.calculateRem(16);
+$fs-18: utils.calculateRem(18);
+$fs-24: utils.calculateRem(24);
+$fs-28: utils.calculateRem(28);
+$fs-36: utils.calculateRem(36);
+$fs-40: utils.calculateRem(40);
+$fs-56: utils.calculateRem(56);
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

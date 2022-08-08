@@ -1,0 +1,26 @@
+@use '../base';
+
+.logo-img {
+    width: 75%;
+}
+
+.hero {
+    text-align: center;
+    margin-block-start: 2rem;
+    max-width: 47rem;
+    margin-inline: auto;
+}
+
+.hero-title {
+    font-size: base.$fs-36;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-block-end: 1rem;
+}
+
+.hero-content {
+    line-height: 1.625;
+    font-size: base.$fs-16;
+    font-weight: 500;
+    color: base.$clr-medium-brown;
+}
