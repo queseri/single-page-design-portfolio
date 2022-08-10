@@ -4,6 +4,7 @@
     background-color: base.$clr-black;
     border-radius: 28px;
     color: base.$clr-light-cream;
+    display: inline-block;
     text-decoration: none;
     font-size: base.$fs-14;
     font-weight: 700;
@@ -11,4 +12,8 @@
     padding-inline: 1rem;
     text-align: center;
     min-width: 11rem;
+}
+
+.btn-profile {
+    background-color: base.$clr-light-red;
 }

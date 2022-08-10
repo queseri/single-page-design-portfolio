@@ -13,14 +13,16 @@
 
 .hero-title {
     font-size: base.$fs-36;
-    font-weight: 700;
-    line-height: 1.25;
+    font-weight: base.$fw-bold;
+    line-height: base.$line-height-title;
     margin-block-end: 1rem;
 }
 
 .hero-content {
-    line-height: 1.625;
+    line-height: base.$line-height-content;
     font-size: base.$fs-16;
-    font-weight: 500;
+    font-weight: base.$fw-normal;
     color: base.$clr-medium-brown;
+    padding-inline: 2.5rem;
 }
+

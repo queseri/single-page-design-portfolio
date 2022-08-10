@@ -7,15 +7,19 @@ body {
 }
 
 .container {
-    width: min(100% - 1rem, 69.4rem);
+    width: min(100% - 2rem, 69.4rem);
     margin-inline: auto;
     margin-block: 1rem;
+}
+
+.main {
+    margin-block-start: 2rem;
 }
 
 .designs {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 2rem 1rem;
+    gap: 1.5rem 1rem;
     border-radius: 8px;
     padding: 1.5rem;
 }
@@ -23,7 +27,7 @@ body {
 .designs-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0.5rem;
+    gap: 1.5rem;
 
     @include utils.mQ(42.5rem) {
         grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -31,30 +35,33 @@ body {
     }
 
     @include utils.mQ(61.25rem) {
-      //  grid-area: 1/1/3/3;
-      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        //  grid-area: 1/1/3/3;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     }
 }
 
 .graphic-design {
     background-color: base.$clr-galactic-blue;
     grid-area: 1/1/2/3;
+    gap: 5.5rem 1rem;
 
     @include utils.mQ(42.5rem) {
         grid-area: 1/1/3/3;
     }
 
     @include utils.mQ(61.25rem) {
-       // grid-area: 1/1/3/3;
+        // grid-area: 1/1/3/3;
     }
 }
 
 .ui-ux {
     background-color: base.$clr-summer-yellow;
+    gap: 3rem 1rem;
 }
 
 .apps {
     background-color: base.$clr-dark-pink;
+    gap: 3rem 1rem;
 }
 
 .photography {
@@ -67,7 +74,7 @@ body {
 
     @include utils.mQ(61.25rem) {
         grid-area: 1/5/2/7;
-     }
+    }
 }
 
 .illustration {
@@ -89,7 +96,7 @@ body {
 
     @include utils.mQ(61.25rem) {
         grid-area: 2/5/3/7;
-     }
+    }
 }
 
 .design-img {
@@ -98,6 +105,75 @@ body {
 }
 
 .design-content {
-    grid-area: 2/1;
+    align-self: end;
+    grid-area: 2/1/3/3;
     color: base.$clr-white;
+    font-size: base.$fs-24;
+    font-weight: base.$fw-bold;
+}
+
+.profile {
+    margin-top: 7rem;
+    flex-direction: column;
+    gap: 2.5rem;
+
+    @include utils.mQ(42.5rem) {
+        flex-direction: row;
+    }
+}
+
+.profile-img-container {
+    flex: 1 1 50%;
+}
+
+.profile-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex: 1 1 50%;
+
+    @include utils.mQ(42.5rem) {
+        align-items: baseline;
+    }
+}
+
+.profile-img {
+    max-width: 27.8rem;
+    width: 87.5%;
+    margin: auto;
+
+    @include utils.mQ(42.5rem) {
+        width: 100%;
+    }
+}
+
+.profile-title {
+    color: base.$clr-black;
+    font-size: base.$fs-26;
+    font-weight: base.$fw-bold;
+    text-align: center;
+    line-height: base.$line-height-title;
+
+    @include utils.mQ(42.5rem) {
+        text-align: left;
+        font-size: base.$fs-32;
+    }
+    @include utils.mQ(61.25rem) {
+        font-size: base.$fs-40;
+    }
+}
+
+.profile-text {
+    text-align: center;
+    color: base.$clr-medium-brown;
+    font-weight: base.$fw-normal;
+    line-height: base.$line-height-content;
+    font-size: base.$fs-16;
+
+    @include utils.mQ(42.5rem) {
+        text-align: left;
+        font-size: base.$fs-18;
+    }
 }
