@@ -160,6 +160,7 @@ body {
         text-align: left;
         font-size: base.$fs-32;
     }
+
     @include utils.mQ(61.25rem) {
         font-size: base.$fs-40;
     }
@@ -176,4 +177,79 @@ body {
         text-align: left;
         font-size: base.$fs-18;
     }
+}
+
+.carousel {
+    margin-top: 2.5rem;
+    position: relative;
+    // padding-top: 75%;
+    filter: drop-shadow(0 0 10px #0003);
+    perspective: 100px;
+}
+
+
+.slide-container {
+    /*
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    */
+    display: flex;
+    overflow-x: scroll;
+    counter-reset: item;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    gap: 1rem;
+}
+
+.slide {
+    position: relative;
+    flex: 0 0 85%;
+    width: 100%;
+    background-color: #f99;
+    counter-increment: item;
+    transition: all 0.5s;
+
+    @include utils.mQ(42.5rem) {
+        flex: 0 0 50%;
+    }
+
+    @include utils.mQ(61.25rem) {
+        flex: 0 0 33.3%;
+    }
+}
+
+.slide-img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    max-height: 22.5rem;
+}
+
+/*
+.slide:before {    
+    content: counter(item);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -40%, 70px);
+    color: #fff;
+    font-size: 2em;    
+}
+*/
+.carousel-controller {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+}
+
+.carousel-snapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    scroll-snap-align: center;
 }

@@ -3,17 +3,27 @@
 .btn {
     background-color: base.$clr-black;
     border-radius: 28px;
+    border: none;
     color: base.$clr-light-cream;
     display: inline-block;
     text-decoration: none;
     font-size: base.$fs-14;
     font-weight: 700;
     padding-block: .8rem;
-    padding-inline: 1rem;
-    text-align: center;
-    min-width: 11rem;
+    padding-inline: 2rem;
+    text-align: center;   
 }
 
 .btn-profile {
     background-color: base.$clr-light-red;
+}
+
+.btn-carousel {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+    padding-inline: 1rem;
+	height: 4rem;
+	max-width: 4rem;	
 }

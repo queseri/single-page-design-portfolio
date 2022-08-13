@@ -91,19 +91,29 @@ select {
 .btn {
   background-color: hsl(0deg, 0%, 1%);
   border-radius: 28px;
+  border: none;
   color: hsl(30deg, 100%, 97%);
   display: inline-block;
   text-decoration: none;
   font-size: 0.875rem;
   font-weight: 700;
   padding-block: 0.8rem;
-  padding-inline: 1rem;
+  padding-inline: 2rem;
   text-align: center;
-  min-width: 11rem;
 }
 
 .btn-profile {
   background-color: hsl(7deg, 77%, 66%);
+}
+
+.btn-carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  padding-inline: 1rem;
+  height: 4rem;
+  max-width: 4rem;
 }
 
 body {
@@ -290,6 +300,81 @@ body {
     text-align: left;
     font-size: 1.125rem;
   }
+}
+
+.carousel {
+  margin-top: 2.5rem;
+  position: relative;
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.2));
+  perspective: 100px;
+}
+
+.slide-container {
+  /*
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  */
+  display: flex;
+  overflow-x: scroll;
+  counter-reset: item;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  gap: 1rem;
+}
+
+.slide {
+  position: relative;
+  flex: 0 0 85%;
+  width: 100%;
+  background-color: #f99;
+  counter-increment: item;
+  transition: all 0.5s;
+}
+@media screen and (min-width: 42.5rem) {
+  .slide {
+    flex: 0 0 50%;
+  }
+}
+@media screen and (min-width: 61.25rem) {
+  .slide {
+    flex: 0 0 33.3%;
+  }
+}
+
+.slide-img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+  max-height: 22.5rem;
+}
+
+/*
+.slide:before {    
+    content: counter(item);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -40%, 70px);
+    color: #fff;
+    font-size: 2em;    
+}
+*/
+.carousel-controller {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.carousel-snapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  scroll-snap-align: center;
 }
 
 .logo-img {
