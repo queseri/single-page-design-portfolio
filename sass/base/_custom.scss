@@ -11,7 +11,8 @@ $clr-medium-brown: hsla(30, 5%, 45%, 1);
 $clr-light-cream: hsla(30, 100%, 97%, 1);
 $clr-white: hsla(0, 0%, 100%, 1);
 
-$font-family: 'Plus Jakarta Sans', sans-serif;
+$font-family: 'Plus Jakarta Sans',
+sans-serif;
 
 $fs-12: utils.calculateRem(12);
 $fs-13: utils.calculateRem(13);
@@ -25,6 +26,7 @@ $fs-28: utils.calculateRem(28);
 $fs-32: utils.calculateRem(32);
 $fs-36: utils.calculateRem(36);
 $fs-40: utils.calculateRem(40);
+$fs-44: utils.calculateRem(44);
 $fs-56: utils.calculateRem(56);
 
 $line-height-title: 1.26;
@@ -38,4 +40,18 @@ $fw-normal: 500;
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+/* screen reader only */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    /* added line */
+    border: 0;
 }

@@ -1,7 +1,12 @@
 @use '../base';
+@use '../utils';
 
 .logo-img {
     width: 75%;
+
+    @include utils.mQ(42.5rem) {
+        width: 100%;
+    }
 }
 
 .hero {
@@ -9,6 +14,10 @@
     margin-block-start: 2rem;
     max-width: 47rem;
     margin-inline: auto;
+
+    @include utils.mQ(42.5rem) {
+        margin-block-start: 3.5rem;
+    }
 }
 
 .hero-title {
@@ -16,6 +25,10 @@
     font-weight: base.$fw-bold;
     line-height: base.$line-height-title;
     margin-block-end: 1rem;
+
+    @include utils.mQ(42.5rem) {
+        font-size: base.$fs-44;
+    }
 }
 
 .hero-content {
@@ -24,5 +37,8 @@
     font-weight: base.$fw-normal;
     color: base.$clr-medium-brown;
     padding-inline: 2.5rem;
-}
 
+    @include utils.mQ(42.5rem) {
+        font-size: base.$fs-18;
+    }
+}

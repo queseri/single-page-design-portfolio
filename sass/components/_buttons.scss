@@ -1,4 +1,5 @@
 @use '../base';
+@use '../utils';
 
 .btn {
     background-color: base.$clr-black;
@@ -11,7 +12,12 @@
     font-weight: 700;
     padding-block: .8rem;
     padding-inline: 2rem;
-    text-align: center;   
+    text-align: center;
+
+    @include utils.mQ(42.5rem) {
+        padding-block: 1.1rem;
+        padding-inline: 3.3rem;
+    }
 }
 
 .btn-profile {
@@ -19,11 +25,19 @@
 }
 
 .btn-carousel {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	border-radius: 50%;
-    padding-inline: 1rem;
-	height: 4rem;
-	max-width: 4rem;	
+    display: flex;
+    background-color: base.$clr-dark-pink;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 0.5rem;
+    width: 0.5rem;
+
+    &:focus {
+        background-color: red;
+    }
+}
+
+.active-btn {
+    background-color: base.$clr-magenta;
 }
