@@ -14,6 +14,11 @@
     padding-inline: 2rem;
     text-align: center;
 
+    &:hover,
+    &:focus {
+        background-color: base.$clr-galactic-blue;
+    }
+
     @include utils.mQ(42.5rem) {
         padding-block: 1.1rem;
         padding-inline: 3.3rem;
@@ -22,6 +27,11 @@
 
 .btn-profile {
     background-color: base.$clr-light-red;
+
+    &:hover,
+    &:focus {
+        background-color: base.$clr-summer-yellow;
+    }
 }
 
 .btn-carousel {

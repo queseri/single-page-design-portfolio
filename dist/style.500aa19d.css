@@ -115,6 +115,9 @@ select {
   padding-inline: 2rem;
   text-align: center;
 }
+.btn:hover, .btn:focus {
+  background-color: hsl(252deg, 66%, 62%);
+}
 @media screen and (min-width: 42.5rem) {
   .btn {
     padding-block: 1.1rem;
@@ -124,6 +127,9 @@ select {
 
 .btn-profile {
   background-color: hsl(7deg, 77%, 66%);
+}
+.btn-profile:hover, .btn-profile:focus {
+  background-color: hsl(28deg, 89%, 67%);
 }
 
 .btn-carousel {
