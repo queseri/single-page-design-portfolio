@@ -14,14 +14,17 @@
 </head>
 
 <body>
-  <div class="container">
-    <header>
+  <div class="wrapper">
+    <!--HEADER START -->
+    <header class="container">
+      <!--NAVIGATION STARTS -->
       <nav class="flex">
         <a href="/" class="logo">
-          <img class="logo-img" src="./assets//logo.svg" role="img" alt="design systems">
+          <img class="logo-img" src="./assets/logo.svg" alt="design systems">
         </a>
         <a class="btn" href="/">Free Consultation</a>
       </nav>
+      <!--NAVIGATION END-->
       <div class="hero">
         <h1 class="hero-title">Design solutions made easy</h1>
         <p class="hero-content">With over ten years of experience in various design disciplines,
@@ -31,19 +34,21 @@
         </p>
       </div>
     </header>
-    <main class="main">
+    <!--HEADER ENDS-->
+    <!--MAIN START-->
+    <main class="main container">
       <!--DESIGNS START-->
       <div class="designs-container">
         <figure class="designs graphic-design">
-          <img class="design-img graphic-design-img" src="./assets/pattern-graphic-design.svg" role="img" alt="">
+          <img class="design-img graphic-design-img" src="./assets/pattern-graphic-design.svg" alt="">
           <figcaption class="design-content graphic-design-content">Graphic Design</figcaption>
         </figure>
         <figure class="designs ui-ux">
-          <img class="design-img ui-img" src="./assets/pattern-ui-ux.svg" role="img" alt="">
+          <img class="design-img ui-img" src="./assets/pattern-ui-ux.svg" alt="">
           <figcaption class="design-content ui-content">UI/UX</figcaption>
         </figure>
         <figure class="designs apps">
-          <img class="design-img app-img" src="./assets/pattern-apps.svg" alt="" role="img">
+          <img class="design-img app-img" src="./assets/pattern-apps.svg" alt="">
           <figcaption class="design-content app-content">
             Apps
           </figcaption>
@@ -88,6 +93,8 @@
       </div>
       <!--PROFILE ENDS HERE-->
     </main>
+    <!--MAIN END-->
+    <!--ASIDE START-->
     <aside class="carousel" aria-label="gallery">
       <h2 class="carousel-title">My Work</h2>
       <ul class="slide-container">
@@ -109,28 +116,25 @@
       </ul>
       <div class="carousel-controller">
         <a href="#slide1" id="slide1-ctr" class="btn-carousel">
-          <!-- <img src="./assets/icon-arrow-left.svg" alt=""> -->
           <span class="sr-only">Go to first slide</span>
         </a>
         <a href="#slide2" id="slide2-ctr" class="btn-carousel">
-          <!-- <img src="./assets/icon-arrow-right.svg" alt=""> -->
           <span class="sr-only">Go to second slide</span>
         </a>
         <a href="#slide3" id="slide3-ctr" class="btn-carousel">
-          <!-- <img src="./assets/icon-arrow-right.svg" alt=""> -->
           <span class="sr-only">Go to third slide</span>
         </a>
         <a href="#slide4" id="slide4-ctr" class="btn-carousel">
-          <!-- <img src="./assets/icon-arrow-right.svg" alt=""> -->
           <span class="sr-only">Go to fourth slide</span>
         </a>
         <a href="#slide5" id="slide5-ctr" class="btn-carousel">
-          <!-- <img src="./assets/icon-arrow-right.svg" alt=""> -->
           <span class="sr-only">Go to fifth slide</span>
         </a>
       </div>
     </aside>
-    <footer class="footer">
+    <!--ASIDE ENDS-->
+    <!--FOOTER START-->
+    <footer class="footer container">
       <div class="footer-content">
 
         <div class="bookings">
@@ -148,14 +152,14 @@
           <a class="btn btn-profile" href="/">Free Consultation</a>
         </div>
       </div>
-      <nav class="flex">
+      <nav class="flex" aria-label="footer gallery">
         <a href="/" class="logo">
-          <img class="logo-img" src="./assets/logo.svg" role="img" alt="design systems">
+          <img class="logo-img" src="./assets/logo.svg" alt="design systems">
         </a>
         <a class="btn" href="/">Free Consultation</a>
       </nav>
     </footer>
-
+    <!--FOOTER ENDS-->
   </div>
   <script src="./main.js"></script>
 </body>
