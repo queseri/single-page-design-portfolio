@@ -188,6 +188,8 @@ body {
     position: relative;
     filter: drop-shadow(0 0 10px #0003);
     perspective: 100px;
+    max-width: 1680px;
+    margin-inline: auto;
 }
 
 .carousel-title {

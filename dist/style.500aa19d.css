@@ -346,6 +346,8 @@ body {
   position: relative;
   filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.2));
   perspective: 100px;
+  max-width: 1680px;
+  margin-inline: auto;
 }
 
 .carousel-title {
