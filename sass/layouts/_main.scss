@@ -207,6 +207,16 @@ body {
     gap: 1rem;
 }
 
+.slide-container::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.slide-container>li {
+    scroll-snap-align: start;
+    transform-origin: center center;
+    transform: scale(1);   
+}
+
 .slide {
     position: relative;
     flex: 0 0 100%;
@@ -230,8 +240,8 @@ body {
     height: 100%;
 
     @include utils.mQ(61.25rem) {
-       // object-fit: cover;
-      //  min-height: 22.5rem;
+        // object-fit: cover;
+        //  min-height: 22.5rem;
     }
 }
 

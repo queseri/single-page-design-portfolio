@@ -5,6 +5,7 @@ This is a solution to the [Single-page design portfolio challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
+- [Installing the project on local computer](#installing-the-project-on-local-computer)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -17,6 +18,13 @@ This is a solution to the [Single-page design portfolio challenge on Frontend Me
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
+
+### Installing the project on local computer
+
+- clone the project on `https://github.com/queseri/single-page-design-portfolio.git`
+- install dependencies by running `yarn install`
+- run the project locally by typing `yarn run dev`
+- open the live version on `http://localhost:1234`
 
 ### The challenge
 
@@ -107,4 +115,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
