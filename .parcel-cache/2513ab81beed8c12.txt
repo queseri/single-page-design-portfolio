@@ -1,4 +1,4 @@
-4551
+4569
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@mischnic133054522240345593 1
 100C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\svgo\plugins\cleanupIDs.js132982490298960000 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\sass\utils\_index.scss133043994196389419 0
@@ -10,7 +10,7 @@
 114C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\lib\public\PluginOptions.js133043523159670000 0
 117C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\web-bluetooth.js133054522147620000 0
 96C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\js-tokens\package.json132982489172980000 0
-73C:\Users\chamu\Documents\Github\single-page-design-portfolio\package.json133069623446624449 0
+73C:\Users\chamu\Documents\Github\single-page-design-portfolio\package.json133069632586680238 0
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\fs\src\NodeFS.browser.js133043523159760000 0
 80C:\Users\chamu\Documents\Github\single-page-design-portfolio\scripts\Flip.min.js133054048751087887 0
 96C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\callsites\package.json132982489174420000 0
@@ -29,7 +29,7 @@
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\transformer-babel\src\config.js133043523235810000 0
 68C:\Users\chamu\Documents\Github\single-page-design-portfolio\main.js133054534949791585 0
 104C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\svgo\plugins\removeComments.js132982490298960000 0
-65C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist133069597967441047 1
+65C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist133069632790451460 1
 101C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\is-binary-path\package.json132982490111240000 0
 98C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-tree\data\patch.json132982490204050000 0
 94C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\yaml\types\binary.js132982489169650000 0
@@ -366,6 +366,7 @@
 110C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-tree\lib\syntax\atrule\import.js132982490204050000 0
 115C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\csso\lib\restructure\8-restructRuleset.js132982490202750000 0
 139C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\index.js133043523159890000 0
+92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-3.be3d03b6.jpg133069632787712048 0
 86C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\browserslist133054523019993346 1
 85C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\buffer-from133054522407464600 1
 99C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\utils\src\glob.js133043523175870000 0
@@ -1206,7 +1207,7 @@
 116C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\htmlnano\lib\modules\collapseWhitespace.js133043523281800000 0
 116C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\node_modules\commander\package.json132982490067220000 0
 122C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\node_modules\commander\typings\index.d.ts132982490067220000 0
-76C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.html133069597966593257 0
+76C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.html133069632790306971 0
 108C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\node_modules\.bin\acorn.cmd133054523020905289 0
 102C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\source-map\lib\quick-sort.js132982489192940000 0
 111C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\transformer-svg\lib\inline.js133043523256950000 0
@@ -1769,6 +1770,7 @@
 93C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\parcel\package.json133043523414180000 0
 84C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\parcel\src133054522638843153 1
 102C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\node-releases\data\processed133054522711755001 1
+92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\favicon-32x32.fe944b6e.png133069632787702076 0
 99C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\parcel\src\.eslintrc.json133043523414180000 0
 112C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\css-sel3.js133054522147620000 0
 101C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\entities\lib\encode-trie.js133043523390690000 0
@@ -2589,6 +2591,7 @@
 114C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-what\lib\commonjs\stringify.d.ts.map132982490380130000 0
 105C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\regions\KE.js133054522147620000 0
 89C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-what\lib\es133054522680647889 1
+87C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.17c079d0.js.map133069632790433938 0
 100C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-what\lib\es\index.d.ts132982490380130000 0
 98C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-what\lib\es\index.js132982490380130000 0
 104C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-what\lib\es\stringify.d.ts132982490380130000 0
@@ -2715,6 +2718,7 @@
 108C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-select\lib\attributes.d.ts.map132982490200880000 0
 119C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\transformer-raw\src\RawTransformer.js133043523251740000 0
 112C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map132982489244890000 0
+98C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-photography.fdd013b1.svg133069632790277126 0
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\cosmiconfig\dist\cacheWrapper.js132982489244890000 0
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133043523159670000 0
 102C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-select\lib\attributes.js132982490200880000 0
@@ -3201,6 +3205,7 @@
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\transformer-html\LICENSE133043523242330000 0
 116C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@jridgewell\source-map\dist\source-map.mjs132994393730050000 0
 119C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\document-policy.js133054522147620000 0
+92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-ui-ux.873e8660.svg133069632790277126 0
 129C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\document-scrollingelement.js133054522147620000 0
 116C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\documenthead.js133054522147620000 0
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\dom-range.js133054522147620000 0
@@ -4003,6 +4008,7 @@
 131C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133043523226500000 0
 130C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js133043523226500000 0
 105C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\runtime-browser-hmr\lib133054522618483589 1
+92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-1.39607aed.jpg133069632787702076 0
 109C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\runtime-browser-hmr\LICENSE133043523220910000 0
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\runtime-browser-hmr\src\loaders133054522700488134 1
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\runtime-browser-hmr\lib\loaders133054522700557820 1
@@ -4176,6 +4182,7 @@
 149C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src133054522730358116 1
 156C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\main.js133043523331250000 0
 161C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\package.json133043523331250000 0
+100C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-illustrations.3e8533ee.svg133069632790277126 0
 151C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\browser.js133043523331250000 0
 147C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\foo.js133043523331250000 0
 143C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\package.json133043523331250000 0
@@ -4510,6 +4517,7 @@
 95C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\.bin\browserslist.cmd133054523021347098 0
 94C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\.bin\detect-libc.cmd133054523021429116 0
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\.bin\download-msgpackr-prebuilds133054523021593185 0
+91C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-apps.b7e45b03.svg133069632790267098 0
 110C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\.bin\download-msgpackr-prebuilds.cmd133054523021593185 0
 84C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\.bin\json5133054523021534273 0
 88C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\.bin\json5.cmd133054523021529324 0
@@ -4525,19 +4533,29 @@
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\favicon-32x32.1e0171f0.png133052639640850018 0
 94C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\icon-arrow-left.a62ee8b4.svg133048476726234613 0
 89C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-amy.c29e24ff.webp133069597966733295 0
+89C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-amy.c654cd5e.webp133069632722700642 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-1.99d14bce.jpg133069597966713367 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-1.c844741d.jpg133052639640856129 0
+92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-2.2f0da7a1.jpg133069632787702076 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-2.bf79093f.jpg133069597966677410 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-3.3516e038.jpg133069597966677410 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-3.daa5211a.jpg133052639640858913 0
+92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-4.7ff10a97.jpg133069632787712048 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-4.ca379570.jpg133069597966687450 0
+92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-5.4c9e39ac.jpg133069632787712048 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-5.518414ba.jpg133069597966687450 0
+83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.17c079d0.js133069632790306971 0
 84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.3ca998d7.css133069597966603303 0
+84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.594cafc6.css133069632790306971 0
+88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.594cafc6.css.map133069632790433938 0
+83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\logo.15e813f8.svg133069632790267098 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\logo.b37d81ec.svg133052639640850018 0
 86C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\main.1f19ae8e.js.map133054043061935244 0
 91C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-apps.ae007d79.svg133052639640850018 0
 101C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-graphic-design.0e080295.svg133052639640858913 0
 101C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-graphic-design.8278dfde.svg133069597966593257 0
+101C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-graphic-design.9960f75e.svg133069632790267098 0
+102C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-motion-graphics.e9d9a6f6.svg133069632790277126 0
 98C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-photography.46aad62f.svg133069597966593257 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\style.500aa19d.js133053997300213996 0
 87C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\style.500aa19d.js.map133054012530987217 0
