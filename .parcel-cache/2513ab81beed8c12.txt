@@ -1,5 +1,4 @@
-4569
-83C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@mischnic133054522240345593 1
+4578
 100C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\svgo\plugins\cleanupIDs.js132982490298960000 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\sass\utils\_index.scss133043994196389419 0
 93C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\yaml\browser\map.js132982489169650000 0
@@ -19,6 +18,8 @@
 123C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\input-email-tel-url.js133054522147620000 0
 105C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\cosmiconfig\dist\index.d.ts.map132982489244890000 0
 71C:\Users\chamu\Documents\Github\single-page-design-portfolio\.gitignore133043571539001559 0
+64C:\Users\chamu\Documents\Github\single-page-design-portfolio\css133069632841464308 1
+96C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\picomatch\lib\utils.js132982490074290000 0
 67C:\Users\chamu\Documents\Github\single-page-design-portfolio\assets133053528715690091 1
 148C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json133043523159890000 0
 82C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\escalade133054522414266332 1
@@ -29,7 +30,7 @@
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\transformer-babel\src\config.js133043523235810000 0
 68C:\Users\chamu\Documents\Github\single-page-design-portfolio\main.js133054534949791585 0
 104C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\svgo\plugins\removeComments.js132982490298960000 0
-65C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist133069632790451460 1
+65C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist133074824757358548 1
 101C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\is-binary-path\package.json132982490111240000 0
 98C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-tree\data\patch.json132982490204050000 0
 94C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\yaml\types\binary.js132982489169650000 0
@@ -57,7 +58,7 @@
 112C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-tree\lib\syntax\node\Combinator.js132982490204050000 0
 105C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\regions\GA.js133054522147620000 0
 120C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js132982490204050000 0
-70C:\Users\chamu\Documents\Github\single-page-design-portfolio\README.md133066524400775717 0
+70C:\Users\chamu\Documents\Github\single-page-design-portfolio\README.md133069641120745952 0
 88C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\domhandler\lib133054522560912647 1
 94C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\msgpackr-extract\bin133054522638436483 1
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\svgo\plugins\cleanupEnableBackground.js132982490298960000 0
@@ -198,7 +199,7 @@
 119C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133043523281800000 0
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@swc\helpers\lib\_ts_metadata.js133054522142120000 0
 114C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\pdf-viewer.js133054522147620000 0
-90C:\Users\chamu\Documents\Github\single-page-design-portfolio\sass\components\_buttons.scss133052382003404257 0
+90C:\Users\chamu\Documents\Github\single-page-design-portfolio\sass\components\_buttons.scss133074824650038667 0
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\chokidar\lib\fsevents-handler.js132982489760300000 0
 105C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\transformer-raw\LICENSE133043523251740000 0
 84C:\Users\chamu\Documents\Github\single-page-design-portfolio\scripts\EasePack.min.js133054048754990584 0
@@ -297,6 +298,7 @@
 131C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133043523310750000 0
 133C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133043523310750000 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\sass\base\_custom.scss133049533521077578 0
+83C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@mischnic133054522240345593 1
 100C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\types\package.json133043523277680000 0
 99C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\lib\mozilla-ast.js133043523286370000 0
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\utils\src\getExisting.js133043523175870000 0
@@ -1122,6 +1124,7 @@
 123C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\once-event-listener.js133054522147620000 0
 98C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\source-map\lib\base64.js132982489192940000 0
 94C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\domhandler\readme.md132982490376300000 0
+88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.8f1b1835.css.map133074819840830731 0
 93C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\node_modules133054523020865750 1
 110C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@swc\helpers\lib\_sliced_to_array.js133054522142120000 0
 111C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\type-fest\source\set-return-type.d.ts132982489991770000 0
@@ -1207,7 +1210,7 @@
 116C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\htmlnano\lib\modules\collapseWhitespace.js133043523281800000 0
 116C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\node_modules\commander\package.json132982490067220000 0
 122C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\node_modules\commander\typings\index.d.ts132982490067220000 0
-76C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.html133069632790306971 0
+76C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.html133074824757232745 0
 108C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\terser\node_modules\.bin\acorn.cmd133054523020905289 0
 102C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\source-map\lib\quick-sort.js132982489192940000 0
 111C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\transformer-svg\lib\inline.js133043523256950000 0
@@ -1279,6 +1282,7 @@
 104C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\watcher\src\Watcher.cc133043523292090000 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\term-size\index.js133043523276770000 0
 144C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133043523159670000 0
+84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.8f1b1835.css133074819840714906 0
 112C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@swc\helpers\src\_class_call_check.mjs133054522142120000 0
 91C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\term-size\license133043523276770000 0
 93C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\term-size\readme.md133043523276770000 0
@@ -1728,7 +1732,6 @@
 96C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\picomatch\lib\parse.js132982490074290000 0
 97C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\chrome-trace-event\dist133054522556612167 1
 104C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\immutable\dist\immutable.es.js133012584495770000 0
-96C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\picomatch\lib\utils.js132982490074290000 0
 93C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\msgpackr\index.d.ts133043523279150000 0
 97C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\picocolors\package.json132982489480340000 0
 103C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\ordered-binary\dist\index.cjs133043523368680000 0
@@ -2478,6 +2481,7 @@
 107C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\domelementtype\lib\esm\index.d.ts132982490386000000 0
 88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\style.500aa19d.css.map133053997300282283 0
 111C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\domelementtype\lib\esm\index.d.ts.map132982490386000000 0
+84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.734c1ccf.css133074824757232745 0
 105C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\domelementtype\lib\esm\index.js132982490386000000 0
 96C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\dom-serializer\LICENSE132982490406430000 0
 107C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\css-tree\lib\syntax\pseudo\has.js132982490204050000 0
@@ -3054,6 +3058,7 @@
 116C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\console-time.js133054522147620000 0
 109C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\const.js133054522147620000 0
 125C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\constraint-validation.js133054522147620000 0
+88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.eea45ac3.css.map133074823164201924 0
 126C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133054522147620000 0
 121C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\createimagebitmap.js133054522147620000 0
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\caniuse-lite\data\features\maxlength.js133054522147620000 0
@@ -3958,7 +3963,6 @@
 152C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main\package.json133043523331250000 0
 136C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133043523159670000 0
 149C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133043523276850000 0
-100C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\Parcel.js133043523159670000 0
 110C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\source-map\node_modules\.bin133054523018599656 1
 122C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\source-map\node_modules\.bin\detect-libc133054523018602382 0
 126C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\source-map\node_modules\.bin\detect-libc.cmd133054523018602382 0
@@ -4303,10 +4307,11 @@
 103C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\constants.js133043523159670000 0
 104C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\Dependency.js133043523159670000 0
 104C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\loadDotEnv.js133043523159670000 0
+100C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\Parcel.js133043523159670000 0
 106C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\ParcelConfig.js133043523159670000 0
 113C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\ParcelConfig.schema.js133043523159670000 0
 105C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\projectPath.js133043523159670000 0
-88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.3ca998d7.css.map133069597967383671 0
+88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.3ca998d7.css.map133074824659951969 0
 97C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\public133054522700425286 1
 108C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\ReporterRunner.js133043523159670000 0
 99C:\Users\chamu\Documents\Github\single-page-design-portfolio\node_modules\@parcel\core\src\requests133054522699852394 1
@@ -4545,9 +4550,11 @@
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-5.4c9e39ac.jpg133069632787712048 0
 92C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\image-slide-5.518414ba.jpg133069597966687450 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.17c079d0.js133069632790306971 0
-84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.3ca998d7.css133069597966603303 0
+84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.3ca998d7.css133074824659911246 0
 84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.594cafc6.css133069632790306971 0
 88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.594cafc6.css.map133069632790433938 0
+88C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.734c1ccf.css.map133074824757347222 0
+84C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\index.eea45ac3.css133074823164144204 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\logo.15e813f8.svg133069632790267098 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\logo.b37d81ec.svg133052639640850018 0
 86C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\main.1f19ae8e.js.map133054043061935244 0
@@ -4559,6 +4566,8 @@
 98C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\pattern-photography.46aad62f.svg133069597966593257 0
 83C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\style.500aa19d.js133053997300213996 0
 87C:\Users\chamu\Documents\Github\single-page-design-portfolio\dist\style.500aa19d.js.map133054012530987217 0
+73C:\Users\chamu\Documents\Github\single-page-design-portfolio\css\main.css133074823186717620 0
+77C:\Users\chamu\Documents\Github\single-page-design-portfolio\css\main.css.map133074823186707632 0
 87C:\Users\chamu\Documents\Github\single-page-design-portfolio\assets\icon-arrow-left.svg133043514862351838 0
 88C:\Users\chamu\Documents\Github\single-page-design-portfolio\assets\icon-arrow-right.svg133043514861716793 0
 82C:\Users\chamu\Documents\Github\single-page-design-portfolio\assets\image-amy.webp133043514862743500 0

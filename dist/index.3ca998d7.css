@@ -88,7 +88,10 @@ input, button, textarea, select {
 }
 
 .btn:hover, .btn:focus {
+  cursor: pointer;
+  outline-offset: .15em;
   background-color: #785ede;
+  outline: dashed #562049;
 }
 
 @media screen and (min-width: 42.5rem) {
@@ -104,6 +107,7 @@ input, button, textarea, select {
 
 .btn-profile:hover, .btn-profile:focus {
   background-color: #f6a660;
+  outline: dashed #f49f9f;
 }
 
 .btn-carousel {
@@ -116,12 +120,19 @@ input, button, textarea, select {
   display: flex;
 }
 
-.btn-carousel:focus {
+.btn-carousel:hover, .btn-carousel:focus {
   background-color: red;
+  outline: dashed #f49f9f;
 }
 
 .active-btn {
   background-color: #562049;
+}
+
+.logo:hover, .logo:focus {
+  cursor: pointer;
+  outline-offset: .15em;
+  outline: dashed #562049;
 }
 
 body {

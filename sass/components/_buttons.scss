@@ -17,6 +17,9 @@
     &:hover,
     &:focus {
         background-color: base.$clr-galactic-blue;
+        cursor: pointer;
+        outline: dashed base.$clr-magenta;
+        outline-offset: .15em;
     }
 
     @include utils.mQ(42.5rem) {
@@ -31,6 +34,7 @@
     &:hover,
     &:focus {
         background-color: base.$clr-summer-yellow;
+        outline: dashed base.$clr-dark-pink;
     }
 }
 
@@ -43,11 +47,20 @@
     height: 0.5rem;
     width: 0.5rem;
 
+    &:hover,
     &:focus {
         background-color: red;
+        outline: dashed base.$clr-dark-pink;
     }
 }
 
 .active-btn {
     background-color: base.$clr-magenta;
+}
+
+.logo:hover,
+.logo:focus {
+    cursor: pointer;
+    outline: dashed base.$clr-magenta;
+    outline-offset: .15em;
 }
